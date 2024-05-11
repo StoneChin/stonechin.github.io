@@ -1,5 +1,6 @@
 {
-  "name": "fuwari",
+  "name": "stone-blog",
+  "packageManager": "pnpm@8.15.4",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
