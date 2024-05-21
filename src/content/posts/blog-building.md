@@ -58,7 +58,6 @@ $ git clone https://github.com/username/username.github.io
 $ cd username.github.io
 $ code . # 使用code打开当前文件夹
 ```
-
 ### 2. Astro
 
 #### 安装 & 本地运行
@@ -70,7 +69,6 @@ $ npm install
 # 运行
 $ npm run dev
 ```
-
 #### 配置并部署
 
 Astro 维护了一个官方的 GitHub Action withastro/action 来帮助部署项目；只需很少的配置，就可以完成部署。按照下面的说明可以将你的 Astro 站点部署到 GitHub Pages，如果你需要更多信息，请参阅该[README](https://github.com/withastro/action)。
@@ -146,8 +144,6 @@ jobs:
   ...
 }
 ```
-
-
 #### push到GitHub仓库
 
 在修改完代码以后将代码push到仓库
