@@ -62,6 +62,11 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:github',
       url: 'https://github.com/StoneChin',
     },
+    {
+      name: 'Instagram',
+      icon: 'fa6-brands:instagram',
+      url: 'https://www.instagram.com/stone_zxcv',
+    },
   ],
 }
 
