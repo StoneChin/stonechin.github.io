@@ -3,7 +3,7 @@ title: WebRTC study
 published: 2024-05-18
 description: "学习WebRTC记录"
 image: ""
-tags: ["WebRTC", "Coding"]
+tags: [WebRTC, 音视频, Video]
 category: Note
 draft: false
 ---

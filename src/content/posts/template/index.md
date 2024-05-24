@@ -3,9 +3,9 @@ title: 刷题常用模板
 published: 2024-05-13
 description: "Leetcode template"
 image: ""
-tags: ["刷题", "Coding"]
+tags: [刷题, Coding]
 category: Note
-draft: false
+draft: true
 ---
 
 ## 常用刷题模板
