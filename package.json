@@ -60,5 +60,10 @@
     "@types/mdast": "^4.0.3",
     "@types/sanitize-html": "^2.11.0",
     "stylus": "^0.63.0"
+  },
+  "overrides": {
+    "astro-icon": {
+      "@iconify/tools": "^4.0.0"
+    }
   }
 }
